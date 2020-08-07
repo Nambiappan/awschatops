@@ -17,10 +17,11 @@ This repository contains details about AWS Chatops
 
 # Case 1: Notifications
 
+![](/images/AWSChatbotHowitworks.png)
 
 # Case 2: Commands
 
-
+![](/images/AWSChatBotCommandInteraction.png)
 
 # Example Uses cases for AWS ChatOps
 
@@ -35,6 +36,8 @@ Use cases:
 - Monitor operations on AWS Systems Manager parameter
 
 
+![](/images/AWSChatbot.png)
+
 # DEMO Screenshots :
 
 Performed demo AWS Chatbot + Slack Integration
@@ -42,18 +45,22 @@ Performed demo AWS Chatbot + Slack Integration
 # Use Case :
 # GuardDuty security threat alerts on Slack
 
+![](/images/GuarddutyDemoScreenshot.png)
 
 # UseCase:
 # Trigger AWS Read only Commands
 
+![](/images/awsreadonlycommands.png)
 
 # UserCase 3:
+![](/images/cloudwatchDemo.png)
 
+![](/images/cloudwatchdemo1.png)
 
 # UseCase:
 # Trigger Lambda Functions from Slack Channel
 
-
+![](/images/LamdademoScreenshot.png)
 
 Happy Exploring!!!
 
