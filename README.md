@@ -9,6 +9,7 @@ This repository contains details about AWS Chatops
 
 # ChatOps General Architecture:
 
+![](/images/ChatOpsFundamentalArchitecture.png)
 
 # AWS Chatbot - ChatOps for AWS
 
