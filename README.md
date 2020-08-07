@@ -42,3 +42,17 @@ Performed demo AWS Chatbot + Slack Integration
 # GuardDuty security threat alerts on Slack
 
 
+# UseCase:
+# Trigger AWS Read only Commands
+
+
+# UserCase 3:
+
+
+# UseCase:
+# Trigger Lambda Functions from Slack Channel
+
+
+
+Happy Exploring!!!
+
